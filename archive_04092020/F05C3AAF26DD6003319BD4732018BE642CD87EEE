@@ -1,0 +1,368 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+	<head>
+		
+
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<title>Projet PEC V3 - Accueil PEC</title>
+
+<link rel="canonical" href="https://www.pec-univ.fr/accueil-pec-11496736.kjsp" />
+
+<link rel="shortcut icon" type="image/x-icon" href="https://www.pec-univ.fr/images/favicon.ico" />
+<link rel="icon" type="image/png" href="https://www.pec-univ.fr/images/favicon.png" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="mssmarttagspreventparsing" content="true" />
+
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.Title" content="Projet&#x20;PEC&#x20;V3&#x20;-&#x20;Accueil&#x20;PEC" />
+<meta name="DC.Creator" content="Véronique Chloup" />
+<meta name="DC.Subject" lang="fr-FR" content="" />
+<meta name="DC.Description" lang="fr-FR" content="" />
+<meta name="DC.Publisher" content="Véronique Chloup" />
+<meta name="DC.Date.created" scheme="W3CDTF" content="20150909" />
+<meta name="DC.Date.modified" scheme="W3CDTF" content="20200619" />
+<meta name="DC.Language" scheme="RFC3066" content="fr-FR" />
+<meta name="DC.Rights" content="Copyright &copy; Projet PEC V3" />
+
+
+
+<meta name="author" lang="fr-FR" content="Véronique Chloup" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="Date-Creation-yyyymmdd" content="20150909" />
+<meta name="Date-Revision-yyyymmdd" content="20200619" />
+<meta name="copyright" content="Copyright &copy; Projet PEC V3" />
+<meta name="reply-to" content="assistance-pec@univ-grenoble-alpes.fr" />
+<meta name="category" content="Internet" />
+<meta name="robots" content="index, follow" />
+<meta name="distribution" content="global" />
+<meta name="identifier-url" content="https://www.pec-univ.fr/" />
+<meta name="resource-type" content="document" />
+<meta name="expires" content="-1" />
+<meta name="Generator" content="K--sup" />
+<meta name="Formatter" content="K--sup" />
+
+		<link rel="stylesheet" type="text/css" media="screen" href="https://www.pec-univ.fr/wro/screenstyles/a84b6551acfa1824c2fc89eb8907dbbd0372b147.css"/>
+		<link rel="stylesheet" type="text/css" media="print" href="https://www.pec-univ.fr/wro/printstyles/3ceb40546521a58735f840e16d0480bd1cbe349b.css"/>
+		<link rel="stylesheet" type="text/css" media="print" href="https://www.pec-univ.fr/wro/pdf/4966aa1a3671cfa4f5fdd7d188b3c80fc6c6fa7b.css"/>
+   		
+			<link rel="stylesheet" type="text/css" media="screen" href="https://www.pec-univ.fr/wro/screenstylesWeb/3c8fec08db4b38b1e92780699861505b239cc10a.css"/>
+<style type="text/css" media="screen">
+
+
+div.visuel-rubrique {
+	
+	background-color: #666;
+}
+
+
+
+div.deco_generique_1 h3,
+div.deco_rubrique_1 h3 {
+	color: #fff;
+	background-color: #666;
+}
+
+
+
+.comments .comments-list li .comment .value::before {
+	content: "Valeur :";
+}
+
+</style>
+
+
+		<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" media="screen" href="https://www.pec-univ.fr/wro/lt-ie9/f008b73f391ccfbbcd8c397e9b33cfc7264181e6.css" title="defaut"/>
+		<![endif]-->
+
+		<!--[if lte IE 7]>
+			<link rel="stylesheet" type="text/css" media="screen" href="https://www.pec-univ.fr/wro/ie_commun/54f4ce275652e0732b61cdf7c7c4e85927385eac.css" title="defaut"/>
+		<![endif]-->
+
+		<script type="text/javascript" src="https://www.pec-univ.fr/wro/scripts/e807016f903490080a18cc03e81f6b8e504e093f.js"></script>
+
+
+		<link rel="start" title="Accueil" href="https://www.pec-univ.fr/" />
+
+		<link rel="stylesheet" type="text/css" href="https://www.pec-univ.fr/wro/pecHelpComm/ce9d0538b3a07121a66bd57ff2f5f28754a5ad29.css"/>
+		<script type="text/javascript" src="https://www.pec-univ.fr/wro/sideHelp/2d3db1caa847cca0f9c534ecb42720c82b896a09.js"></script>
+	</head><body class="pagelibre accueil pec-fr-visit">
+		<div id="container">
+
+
+		<p id="acces_direct"><a href="#contenu_sans_nav_sans_encadres" accesskey="s">Acc&egrave;s direct au contenu</a></p>
+
+		<div id="pre-header-wrapper">
+			<div id="pre-header">
+				<div class="pre-header-logo">
+					<img src="https://www.pec-univ.fr/images/logo_appliPEC.png" alt="Projet PEC V3" title="Retour &agrave; la page d'accueil" />
+				    Portefeuille d'Exp&eacute;riences et de Comp&eacute;tences
+				</div>
+				
+
+<!-- >ul id="menu_langues">
+<li class="versiones" lang="es">
+<a hreflang="es" href="#">
+<img alt="Castillian" src="/images/langues/es/drapeau.png" />
+</a>
+</li>
+</ul-->
+
+
+ 
+<!-- ul id="menu_langues"><li class="versiones" lang="es"><a href="https://www.pec-univ.fr"  hreflang="es">
+					<img src="https://www.pec-univ.fr/images/langues/es/drapeau.png" alt="Castillian"/>
+				</a></li><li class="versionca" lang="ca"><a href="https://www.pec-univ.fr"  hreflang="ca">
+					<img src="https://www.pec-univ.fr/images/langues/ca/drapeau.png" alt="Catalan"/>
+				</a></li><li class="selectionne versionfr" lang="fr"><a href="https://www.pec-univ.fr/accueil-pec-11496736.kjsp?RH=PEC-FR-VISIT"  hreflang="fr">
+					<img src="https://www.pec-univ.fr/images/langues/fr/drapeau.png" alt="Français"/>
+				</a></li></ul>--><!-- fin #menu_langues -->
+<div id="connexion"><a id="se_connecter" href="https://www.pec-univ.fr/servlet/com.jsbsoft.jtf.core.SG?PROC=IDENTIFICATION_FRONT&amp;ACTION=CONNECTER&amp;LANGUE=0&amp;RH=PEC-FR-VISIT">
+				Acc&eacute;dez &agrave; votre espace PEC
+			</a></div><!-- fin #connexion -->
+			</div>
+			
+
+
+
+
+
+
+
+
+
+
+		</div>
+
+	<p id="message_maintenance" style="background-color:#eeeeaa !important ; color:#222222; font-weight:400; font-size:14px; line-height:21px;">Information utilisateur<br>Dans le cadre de la mise à jour RGPD_2019-04, il vous sera demandé de saisir de nouveau votre  mail personnel et de l'associer à un mot de passe.<br>En cas de difficultés vous pouvez nous joindre à assistance-pec@univ-grenoble-alpes.fr</p>
+		
+
+		
+		<div id="bandeau-wrapper">
+			<div id="bandeau">
+				<a href="https://www.pec-univ.fr/" title="Retour &agrave; la page d'accueil" accesskey="1">
+			    	<div class="baseline">
+			    		Portefeuille d'Expériences<br/>
+			    		et de Compétences
+			    	</div>
+				</a>
+			</div> <!-- #bandeau -->
+		</div>
+		
+
+		<div id="page">
+
+			
+<script type="text/javascript">
+
+$(function(){
+	var $= jQuery.noConflict();
+	$("a:contains(Accueil)").text("Accueil");
+});
+</script>
+			<br style="clear: both;">
+			
+
+			<div id="contenu_deco" >
+
+			<hr class="separateur_sections_page"/>
+
+			<div id="contenu_sans_nav_sans_encadres" class="contenu">
+
+
+
+				<div class="ligne premiere_ligne">
+		
+		<div class="colonne premiere_colonne derniere_colonne" style="width: 99.9%;">
+			<div class="colonne_deco">
+
+
+
+			
+				<div class="sansstyle">
+  <div style="width:900px; margin: 0 0 10px 0; border-bottom: 1px solid #dddddd; position:relative; display:table; padding: 20px 0;"><div style="margin-right: 10px; width:590px; float:left; position:relative"><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/156675460?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></div><div style="margin-left: 10px;width:290px; float:left; position:relative"><p>Le Consortium PEC est un regroupement d&#39;&eacute;tablissements d&#39;enseignement sup&eacute;rieur dont l&#39;objectif est de favoriser une insertion professionnelle de qualit&eacute; des &eacute;tudiants.</p><p><strong>Notre plateforme est d&eacute;di&eacute;e &agrave; l&#39;identification, la formalisation et la mobilisation de vos exp&eacute;riences et de vos comp&eacute;tences</strong></p><p style="padding:10px; background-color:#eeeeaa;text-transform: uppercase;"><a  href="https://www.pec-univ.fr/servlet/com.jsbsoft.jtf.core.SG?PROC=IDENTIFICATION_FRONT&amp;ACTION=CONNECTER&amp;LANGUE=0&amp;RH=PEC-FR-VISIT" style="padding:10px;">Cr&eacute;er un compte</a></p><p style="text-transform: uppercase;">Se connecter via : <br /><strong> <a  href="https://www.pec-univ.fr/servlet/com.jsbsoft.jtf.core.SG?PROC=IDENTIFICATION_FRONT&amp;ACTION=CONNECTER&amp;LANGUE=0&amp;RH=PEC-FR-VISIT" style="margin-top:10px; display:block;"> <img src="https://www.pec-univ.fr/medias/photo/ico-studies_1554203435053.gif" style="width:16px;height:20px;margin:0px 5px;border:px solid;float:;" alt="" title="ico-studies" /> son universit&eacute;</a></strong>   <strong><a  href="/servlet/com.jsbsoft.jtf.core.SG?PROC=IDENTIFICATION_FRONT&amp;ACTION=CONNECTER&amp;KUSER_CONNECTOR=1" style="margin-top:10px; display:block;"> <img src="https://www.pec-univ.fr/medias/photo/ico-unlock_1554203451402.gif" style="width:13px;height:20px;margin:0px 5px;border:px solid;float:;" alt="" title="" />son mail|mdp personnel</a> </strong></p></div></div><div style="width:100%; margin: 0 0 10px 0; border-bottom: 1px solid #dddddd; position:relative; display:table; padding: 20px 0;"><span style="width:900px; display:block;font-size:18px; color:#888; margin-bottom:20px; text-transform: uppercase;">ACTUALIT&Eacute; DE PEC</span><div style="width:900px;position:relative;"><span style="font-size:24px; color:#E28000">Prochain s&eacute;minaire PEC les 2 et 3 juillet 2020 : <a href="https://www.pec-univ.fr/seminaire-pec-2020-evaluation-validation-des-competences--17756604.kjsp?RH=PEC-FR-VISIT" >programme&nbsp;</a></span><a href="https://www.pec-univ.fr/seminaire-pec-2020-evaluation-validation-des-competences--17756604.kjsp?RH=PEC-FR-VISIT" >&nbsp; &nbsp;&nbsp;</a></div></div><div style="width:900px; margin: 0 0 10px 0; border-bottom: 1px solid #dddddd; position:relative; display:table; padding: 20px 0;"><span style="width:900px; display:block;font-size:18px; color:#888; margin-bottom:20px; text-transform: uppercase;">le PEC aujourd&#39;hui c&#39;est</span><div style="width:300px;position:relative; float:left;"><span style="font-size:36px; color:#E28000">30</span><br /><span style="font-size:24px; color:#444">universit&eacute;s membres</span></div><div style="width:300px;position:relative; float:left;"><span style="font-size:36px; color:#E28000">245 000</span><br /><span style="font-size:24px; color:#444"> utilisateurs</span></div><div style="width:300px;position:relative; float:left;"><span style="font-size:36px; color:#E28000">5 700</span><br /><span style="font-size:24px; color:#444">accompagnateurs</span></div></div><div style="width:900px; margin: 0 0 10px 0; border-bottom: 1px solid #dddddd; position:relative; display:table; padding: 20px 0;"><div style="width:450px;position:relative; float:left;"><strong><a  href="https://www.pec-univ.fr/le-consortium-pec-12390696.kjsp?RH=PEC-FR-VISIT">D&eacute;couvrir qui nous sommes !&nbsp;<br /><br /><br /><br /></a></strong></div></div>
+</div> <!-- fin .sansstyle -->
+
+			
+
+
+			</div> <!-- fin .colonne_deco -->
+		</div> <!-- fin .colonne -->
+
+					<br class="separateur" />
+				</div> <!-- fin .ligne firstline -->
+				<div class="ligne">	
+		
+		<div class="colonne premiere_colonne derniere_colonne" style="width: 99.9%;">
+			<div class="colonne_deco">
+
+
+
+			
+				<div class="sansstyle">
+  <hr />
+</div> <!-- fin .sansstyle -->
+
+			
+
+
+
+			
+				<div class="style7">
+	<div class="title">Partenaires</div>
+	<div class="style7_deco"><br /><div style="margin-left: 120px;"><ul class="liste-objets liste-structures"><li class="partenaire"><a href="https://www.pec-univ.fr/agence-erasmus--12338464.kjsp?RH=PEC-FR-VISIT"><img class="vignette" src="https://www.pec-univ.fr/medias/photo/v_piece-jointe_1457347534223.png" width="80" alt="" /></a></li><li class="partenaire"><a href="https://www.pec-univ.fr/association-pour-l-emploi-des-cadres-12338480.kjsp?RH=PEC-FR-VISIT"><img class="vignette" src="https://www.pec-univ.fr/medias/photo/v_logo-apec_1457347959507.png" width="80" alt="" /></a></li><li class="partenaire"><a href="https://www.pec-univ.fr/l-association-representative-des-etudiants-en-sciences-sociales-12167157.kjsp?RH=PEC-FR-VISIT"><img class="vignette" src="https://www.pec-univ.fr/medias/photo/v_ares-logo-240-240_1453197365908.jpg" width="80" alt="" /></a></li></ul><br />&nbsp;</div></div> <!-- fin .style7_deco -->
+</div>
+			
+
+
+			</div> <!-- fin .colonne_deco -->
+		</div> <!-- fin .colonne -->
+
+
+
+   		<br class="separateur" />
+	</div> <!-- fin .ligne -->
+
+
+
+
+	<div class="ligne">	
+		<div class="colonne premiere_colonne derniere_colonne" style="width: 99%;">
+			<div class="colonne_deco">&nbsp;</div> <!-- fin .colonne_deco -->
+		</div> <!-- fin .colonne -->
+	</div> <!-- fin .ligne -->
+
+
+<script type="text/javascript">
+	//<![CDATA[
+	(function($) {
+		
+		$(document).ready(function() {
+			
+			$('.style8').each(function(){
+				var dlParent = $(this);
+				var dtParent = $('.replier_deplier',dlParent).parents('.style8_titre');
+				dtParent.nextUntil('.style8_titre').each(function(){
+					$(this).hide();
+				});
+				
+				$('.replier_deplier',dlParent).click(function(){
+					var btDeplierPlier = $(this);
+					dtParent = btDeplierPlier.parents('.style8_titre');
+					
+					if (btDeplierPlier.hasClass('deplier')){
+						btDeplierPlier.removeClass('deplier');
+						btDeplierPlier.text("replier");
+						dtParent.nextUntil('.style8_titre').each(function(){
+							$(this).show();
+						});
+					} else {
+						btDeplierPlier.addClass('deplier');
+						btDeplierPlier.text("déplier");
+						dtParent.nextUntil('.style8_titre').each(function(){
+							$(this).hide();
+						});
+					}
+					return false;
+				});
+			});
+			
+		});
+		
+	})(jQuery);
+	//]]>
+</script>
+
+
+</div> <!-- fin #contenu_sans_nav_sans_encadres .contenu -->
+					<hr class="separateur_sections_page" /></div> <!-- #deco-contenu -->
+					<div class="separateur"></div>
+				
+			</div> <!-- #page -->
+			
+			<div id="pied_deco">
+				<div id="pied_page">
+					
+
+
+				</div><!-- #pied_page -->
+			</div> <!-- #pied_deco -->
+				
+			
+			
+			<script type="text/javascript">
+				//<![CDATA[
+				(function($) {
+					$(document).ready(function() {
+
+						/* traitement des fancybox, si la page est dans une iframe et 
+						que la page contenant la box est une page du pec alors on cache le bandeau, le menu, ... */
+						var isInIframe = (window.location != window.parent.location) ? true : false;
+						var hostNamePec = 'www.pec-univ.fr';
+						var hostNameParent = window.parent.location.hostname;
+						var parentIsPec = (hostNamePec == hostNameParent);
+						
+						if (isInIframe && parentIsPec) {
+							$('body').addClass('in-frame');
+							$('#pre-header-wrapper').hide();
+							$('#bandeau-wrapper').hide();
+							$('#menu').hide();
+							$('#pec_menu').hide();
+							$('body').css('background', 'none').addClass('sidehelp');
+							$('#recherche_simple').hide();
+							$('#pied_page').hide();
+							$('iframe#sidehelp, #sidehelp-vsep, #sidehelp-close').remove();
+						}
+					});
+				})(jQuery);
+			//]]>
+			</script>
+			<!-- Script Google Analytics 
+            <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-39832134-1', 'pec-univ.fr');
+              ga('send', 'pageview');
+
+            </script>
+            FIN Script Google Analytics -->
+			</div>
+			<div id="sidehelp-vsep"></div><div id="sidehelp-close">&times;</div><iframe id="sidehelp" src=""></iframe>
+			</body>
+		</html>
+ýaßf¶¢      _N˜}_N˜~BÑZ_N˜}       :https://www.pec-univ.fr/ necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Date: Tue, 01 Sep 2020 18:52:45 GMT
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Type: text/html;charset=ISO-8859-1
+ original-response-headers Date: Tue, 01 Sep 2020 18:52:45 GMT
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Set-Cookie: JSESSIONID=341AD530E6DC69E628A622C18B457DB4; Path=/; Secure
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=ISO-8859-1
+ ctid 1 eTLD1Access 1;0;1121021817, uncompressed-len 0 net-response-time-onstart 520 net-response-time-onstop 529 predictor::resource-count 18 predictor::https://www.pec-univ.fr/wro/screenstyles/a84b6551acfa1824c2fc89eb8907dbbd0372b147.css 1,1,1598986365,4096 predictor::https://www.pec-univ.fr/wro/printstyles/3ceb40546521a58735f840e16d0480bd1cbe349b.css 1,1,1598986365,4096 predictor::https://www.pec-univ.fr/wro/pdf/4966aa1a3671cfa4f5fdd7d188b3c80fc6c6fa7b.css 1,1,1598986365,4096 predictor::https://www.pec-univ.fr/wro/screenstylesWeb/3c8fec08db4b38b1e92780699861505b239cc10a.css 1,1,1598986365,4096 predictor::https://www.pec-univ.fr/wro/scripts/e807016f903490080a18cc03e81f6b8e504e093f.js 1,1,1598986365,4096 predictor::https://www.pec-univ.fr/wro/pecHelpComm/ce9d0538b3a07121a66bd57ff2f5f28754a5ad29.css 1,1,1598986365,4096 predictor::https://www.pec-univ.fr/wro/sideHelp/2d3db1caa847cca0f9c534ecb42720c82b896a09.js 1,1,1598986365,4096 predictor::https://www.pec-univ.fr/images/logo_appliPEC.png 1,1,1598986365,4097 predictor::https://player.vimeo.com/api/player.js 1,1,1598986365,4096 predictor::https://www.pec-univ.fr/medias/photo/ico-studies_1554203435053.gif 1,1,1598986365,4097 predictor::https://www.pec-univ.fr/medias/photo/ico-unlock_1554203451402.gif 1,1,1598986365,4097 predictor::https://www.pec-univ.fr/medias/photo/v_piece-jointe_1457347534223.png 1,1,1598986365,4097 predictor::https://www.pec-univ.fr/medias/photo/v_logo-apec_1457347959507.png 1,1,1598986365,4097 predictor::https://www.pec-univ.fr/medias/photo/v_ares-logo-240-240_1453197365908.jpg 1,1,1598986365,4097 predictor::https://www.pec-univ.fr/jsp/styles/defaut/fonts/open-sans/fonts/Regular/OpenSans-Regular.woff2?v=1.1.0 1,1,1598986365,4096 predictor::https://www.pec-univ.fr//jsp//styles//defaut//img/pec/pec-header.png 1,1,1598986365,4096 predictor::https://www.pec-univ.fr//jsp//styles//defaut//img/pec/bg_footer.jpg 1,1,1598986365,4096 predictor::https://www.pec-univ.fr/jsp/styles/defaut/fonts/open-sans/fonts/Bold/OpenSans-Bold.woff2?v=1.1.0 1,1,1598986365,4096   >,
