@@ -2,4 +2,4 @@
 
 # à executer via le dossier size avec cette commande ../.././exercice1.sh
 
-find -size -3k | wc -l
+echo $(find -size -3k | wc -l) > ../3kfiles
