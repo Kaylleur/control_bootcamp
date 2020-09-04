@@ -1,3 +1,5 @@
 #! /usr/bin/bash
 
-  find data/sizes -type f -size +5k > archive_$(date +%d%m%Y);
+mkdir archive_$(date +%d%m%Y);
+find . -type f -size +5k;
+cp $(find . -type f -size +5k) archive_$(date +%d%m%Y);
