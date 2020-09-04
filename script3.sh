@@ -1,4 +1,3 @@
 #! /usr/bin/bash
-find data/sizes -type f ./"ta" > ta_files.txt; 
-#find ta -l
-#
+ ls data/sizes | grep -i ta > ta_files.txt; 
+
